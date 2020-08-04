@@ -1,4 +1,4 @@
-***This is a really old version. The actual calculating part should be fine, but the UI stuff is really out of date. I would be surprised if it compiled at all on the newer IDEs. There are updated version(s) of this if you really want to try building one. Drop me a note and I can help set you up with one.***
+***This is a really old version. The actual calculating part should be fine, but the UI stuff is really out of date. I would be surprised if it compiled at all on the newer IDEs. There are updated version(s) of this, if you really want to try building it. Drop me a note and I can help set you up with one.***
 
 This is the code for creating the Left Coast RPN calculator.  If you’re reading this, I’d assume you have built or are building one of these.
 
